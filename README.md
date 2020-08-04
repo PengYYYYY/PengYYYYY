@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=super-YUE)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=super-YUE&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=super-YUE&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=super-YUE&show_icons=true&theme=radical)
+
+- 🔭 I’m currently working on LY.com
+- 🌱 I’m currently learning javascript
+
 <!--
 **super-YUE/super-YUE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
