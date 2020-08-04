@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super-YUE)](https://github.com/anuraghazra/github-readme-stats)
 
-[![taro-ui-vue](https://github-readme-stats.vercel.app/api/pin/?username=psaren&repo=taro-ui-vue)](git@github.com:psaren/taro-ui-vue.git)
+[![taro-ui-vue](https://github-readme-stats.vercel.app/api/pin/?username=psaren&repo=taro-ui-vue)](https://github.com/psaren/taro-ui-vue)
