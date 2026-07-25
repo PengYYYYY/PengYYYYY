@@ -34,11 +34,6 @@
 ### GitHub Stats
 
 <p align="center">
-<img height="160" src="https://github-readme-stats-sigma-orange.vercel.app/api?username=PengYYYYY&show_icons=true&hide_border=true&theme=default" />
-<img height="160" src="https://github-readme-stats-sigma-orange.vercel.app/api/top-langs/?username=PengYYYYY&layout=compact&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com/?user=PengYYYYY&hide_border=true&theme=default" />
 </p>
 
