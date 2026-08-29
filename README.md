@@ -9,12 +9,3 @@
 <img src="https://komarev.com/ghpvc/?username=PengYYYYY&color=0575E6&style=flat-square&label=views" />
 </p>
 
-
-### Tech Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</p>
